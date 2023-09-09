@@ -75,7 +75,7 @@
             "Correct Answer": 4
         },
         "Question10": {
-            "Question": ". A resident in a long term care facility tells the CCA that he would like to see his spiritual leader. What is the CCA's best response?",
+            "Question": "A resident in a long term care facility tells the CCA that he would like to see his spiritual leader. What is the CCA's best response?",
             "Option1": "Ask the client why s/he would like to see the spiritual leader.",
             "Option2": "Assist the client in contacting the spiritual leader.",
             "Option3": "Make a note about the request in the communication book.",
@@ -795,7 +795,7 @@
             "Correct Answer": 1
         },
         "Question100": {
-            "Question": ".\tThe goal of bladder training is to:",
+            "Question": "The goal of bladder training is to:",
             "Option1": "Prevent infection.",
             "Option2": "Treat incontinence.",
             "Option3": "Gain control of urination.",
@@ -1279,7 +1279,7 @@
             "Correct Answer": 2
         },
         "Question10": {
-            "Question": ". What does non-verbal communication involve?",
+            "Question": "What does non-verbal communication involve?",
             "Option1": "Observation by way of hearing.",
             "Option2": "Documentation and observation.",
             "Option3": "Exchange of messages without speech.",
@@ -1999,7 +1999,7 @@
             "Correct Answer": 1
         },
         "Question100": {
-            "Question": ".\tWhich of the following can occur if constipation is not relieved?",
+            "Question": "Which of the following can occur if constipation is not relieved?",
             "Option1": "Suppository.",
             "Option2": "Diarrhea.",
             "Option3": "Fecal impaction.",
@@ -2483,7 +2483,7 @@
             "Correct Answer": 2
         },
         "Question10": {
-            "Question": ". What does verbal communication include?",
+            "Question": "What does verbal communication include?",
             "Option1": "Spoken and body language.",
             "Option2": "Written and spoken language.",
             "Option3": "Written account of activity.",
@@ -3203,7 +3203,7 @@
             "Correct Answer": 1
         },
         "Question100": {
-            "Question": ".\tFor a client who has a catheter, the drainage bag must be kept:",
+            "Question": "For a client who has a catheter, the drainage bag must be kept:",
             "Option1": "At the person\u2019s right side.",
             "Option2": "At bladder level.",
             "Option3": "Below the level of the bladder.",
@@ -3687,7 +3687,7 @@
             "Correct Answer": 2
         },
         "Question10": {
-            "Question": ". Jane, a CCA, is hearing impaired in one ear and wears a hearing aid. To perform her role competently and successfully, what does she need to do?",
+            "Question": "Jane, a CCA, is hearing impaired in one ear and wears a hearing aid. To perform her role competently and successfully, what does she need to do?",
             "Option1": "Ask her co-workers to verbally communicate with her clients.",
             "Option2": "Advise all her clients about her hearing loss.",
             "Option3": "Recognize her abilities and ensure she uses adaptations as needed to perform her duties.",
@@ -4407,7 +4407,7 @@
             "Correct Answer": 1
         },
         "Question100": {
-            "Question": ".\tWhich of the following is a risk when using a blade razor?",
+            "Question": "Which of the following is a risk when using a blade razor?",
             "Option1": "Pediculosis corporis.",
             "Option2": "Sores.",
             "Option3": "Nicks and cuts.",
@@ -4891,7 +4891,7 @@
             "Correct Answer": 4
         },
         "Question10": {
-            "Question": ". What is an interdisciplinary team?",
+            "Question": "What is an interdisciplinary team?",
             "Option1": "Group of support services staff that work together to meet clients social and environmental needs.",
             "Option2": "Group of health care providers from a variety of backgrounds and specialties who work together to meet client's needs.",
             "Option3": "Group of Registered and Licensed Practical Nurses who work together to meet client's needs.",
@@ -5611,7 +5611,7 @@
             "Correct Answer": 1
         },
         "Question100": {
-            "Question": ".\tWhen the skin or mucous membrane is broken, it is called:",
+            "Question": "When the skin or mucous membrane is broken, it is called:",
             "Option1": "An intentional wound.",
             "Option2": "A closed wound.",
             "Option3": "An open wound.",
@@ -6095,7 +6095,7 @@
             "Correct Answer": 2
         },
         "Question10": {
-            "Question": ". You want to make sure that you have understood a message. Which communication technique should you use?",
+            "Question": "You want to make sure that you have understood a message. Which communication technique should you use?",
             "Option1": "Focusing.",
             "Option2": "Clarifying.",
             "Option3": "Direct questions.",
@@ -6815,7 +6815,7 @@
             "Correct Answer": 1
         },
         "Question100": {
-            "Question": ".\tA systolic blood pressure below 90 mm Hg and a diastolic pressure below 60 mm Hg is referred to as:",
+            "Question": "A systolic blood pressure below 90 mm Hg and a diastolic pressure below 60 mm Hg is referred to as:",
             "Option1": "Tachycardia.",
             "Option2": "Bradycardia.",
             "Option3": "Hypotension.",
@@ -7220,6 +7220,1798 @@
             "Option2": "Capsules, lozenges and tablets.",
             "Option3": "Elixirs, suspensions and syrups.",
             "Option4": "Aerosols, drops and liquid for injection.",
+            "Correct Answer": 2
+        }
+    },
+    "Exam7": {
+        "id": 7,
+        "quesNum": 150,
+        "Question1": {
+            "Question": "A Continuing Care Assistant shows empathy by:",
+            "Option1": "Putting him/herself in the situation of the client",
+            "Option2": "Feeling sorry for the patient",
+            "Option3": "Deciding what is proper and improper conduct",
+            "Option4": "Invading the client\u2019s privacy",
+            "Correct Answer": 1
+        },
+        "Question2": {
+            "Question": "Defamation is:",
+            "Option1": "The unauthorized touching of another person",
+            "Option2": "Attempting or threatening to touch another person without that person\u2019s consent",
+            "Option3": "Illegal restraint of another person\u2019s movement",
+            "Option4": "Injuring the name and reputation of another person by making false statement to a third person",
+            "Correct Answer": 4
+        },
+        "Question3": {
+            "Question": "Subjective data are:",
+            "Option1": "Signs that can be seen, felt, or heard by another person",
+            "Option2": "Signs that are reported by the patient",
+            "Option3": "A verbal account of the patients care and treatments",
+            "Option4": "A written guide that gives direction about care a patient should receive",
+            "Correct Answer": 2
+        },
+        "Question4": {
+            "Question": "A written guide that gives direction about care a patient should receive is called the:",
+            "Option1": "Nursing care plan",
+            "Option2": "Nurses notes",
+            "Option3": "Graphic sheet",
+            "Option4": "Kardex",
+            "Correct Answer": 1
+        },
+        "Question5": {
+            "Question": "Which of the following temperatures is within the normal range for a tub bath?",
+            "Option1": "38.5",
+            "Option2": "36.5",
+            "Option3": "40.5",
+            "Option4": "42.5",
+            "Correct Answer": 3
+        },
+        "Question6": {
+            "Question": "When recording information, you should:",
+            "Option1": "Write in pencil",
+            "Option2": "Include the date and time",
+            "Option3": "Erase completely if you make an error",
+            "Option4": "Sign all entries with your full name",
+            "Correct Answer": 2
+        },
+        "Question7": {
+            "Question": "Dysuria means:",
+            "Option1": "Absence of breathing",
+            "Option2": "Difficult urination",
+            "Option3": "Large amount of bleeding",
+            "Option4": "Inflammation of the bladder",
+            "Correct Answer": 2
+        },
+        "Question8": {
+            "Question": "The suffix \u2018ectomy\u2019 means:",
+            "Option1": "Excision or removal",
+            "Option2": "Cell",
+            "Option3": "Outside",
+            "Option4": "Intestines",
+            "Correct Answer": 1
+        },
+        "Question9": {
+            "Question": "A person\u2019s dietary practice may be influenced by:",
+            "Option1": "Culture",
+            "Option2": "Religion",
+            "Option3": "Personal preference",
+            "Option4": "All of the above",
+            "Correct Answer": 4
+        },
+        "Question10": {
+            "Question": "A geriatric patient is one who:",
+            "Option1": "Is pregnant",
+            "Option2": "Is elderly and may have diseases associated with aging",
+            "Option3": "Has some type of mental health problems",
+            "Option4": "Is a sick child",
+            "Correct Answer": 2
+        },
+        "Question11": {
+            "Question": "If the client expresses concerns or fears, it is appropriate to:",
+            "Option1": "Listen carefully",
+            "Option2": "Change the subject",
+            "Option3": "Tell the person not to worry",
+            "Option4": "Leave the room at once",
+            "Correct Answer": 1
+        },
+        "Question12": {
+            "Question": "The inner layer of skin is called the:",
+            "Option1": "Dermis",
+            "Option2": "Epidermis",
+            "Option3": "Connective tissue",
+            "Option4": "Cell",
+            "Correct Answer": 1
+        },
+        "Question13": {
+            "Question": "Which part of the musculoskeletal system provides the framework?",
+            "Option1": "Bone marrow and periosteum",
+            "Option2": "Bones",
+            "Option3": "Joints",
+            "Option4": "Large muscles",
+            "Correct Answer": 2
+        },
+        "Question14": {
+            "Question": "Which part of the heart pumps blood to the lungs?",
+            "Option1": "Right atrium",
+            "Option2": "Right ventricle",
+            "Option3": "Left atrium",
+            "Option4": "Left ventricle",
+            "Correct Answer": 2
+        },
+        "Question15": {
+            "Question": "Most of the absorption of food takes place in the:",
+            "Option1": "Stomach",
+            "Option2": "Small intestine",
+            "Option3": "Colon",
+            "Option4": "Large intestine",
+            "Correct Answer": 2
+        },
+        "Question16": {
+            "Question": "Urine is held in the:",
+            "Option1": "Jejunum",
+            "Option2": "Kidneys",
+            "Option3": "Bladder",
+            "Option4": "Liver",
+            "Correct Answer": 3
+        },
+        "Question17": {
+            "Question": "A developmental task of adolescence is:",
+            "Option1": "Adjusting to changes in the body and in physical appearance",
+            "Option2": "Selecting a marriage partner",
+            "Option3": "Choosing an occupation",
+            "Option4": "Becoming a parent",
+            "Correct Answer": 1
+        },
+        "Question18": {
+            "Question": "Developmental tasks:",
+            "Option1": "Are found only when physical growth occurs",
+            "Option2": "End with adolescence",
+            "Option3": "Occur throughout the lifespan",
+            "Option4": "None of the above",
+            "Correct Answer": 3
+        },
+        "Question19": {
+            "Question": "Restraints should be removed:",
+            "Option1": "Every 2 hours",
+            "Option2": "Every shift",
+            "Option3": "Twice a shift",
+            "Option4": "Once an hour",
+            "Correct Answer": 1
+        },
+        "Question20": {
+            "Question": "When the CCA is giving bedside care, the patients bed should be:",
+            "Option1": "Kept in the lowest horizontal position",
+            "Option2": "Kept in high Fowlers position",
+            "Option3": "Unplugged from the wall outlet",
+            "Option4": "Placed in a high horizontal position",
+            "Correct Answer": 4
+        },
+        "Question21": {
+            "Question": "Microorganisms grow best in an environment that is:",
+            "Option1": "Warm and dark",
+            "Option2": "Cool and dry",
+            "Option3": "Warm and well lit",
+            "Option4": "Cool and damp",
+            "Correct Answer": 1
+        },
+        "Question22": {
+            "Question": "When washing the hands, the CCA should:",
+            "Option1": "Turn the water off after moistening the hands",
+            "Option2": "Rub lightly to avoid irritating the skin",
+            "Option3": "Hold the hands and forearms up while washing",
+            "Option4": "Turn the faucet on and off with a paper towel",
+            "Correct Answer": 4
+        },
+        "Question23": {
+            "Question": "Sterilization is the same as:",
+            "Option1": "Clean technique",
+            "Option2": "Sterile asepsis",
+            "Option3": "Disinfection",
+            "Option4": "Medical sepsis",
+            "Correct Answer": 2
+        },
+        "Question24": {
+            "Question": "When lifting heavy objects, the CCA should:",
+            "Option1": "Bend from waist and lift",
+            "Option2": "Hold the object away from the body",
+            "Option3": "Stoop down and lift the object close to the body",
+            "Option4": "Pull instead of pushing",
+            "Correct Answer": 3
+        },
+        "Question25": {
+            "Question": "A transfer belt may also be called a:",
+            "Option1": "Gait belt",
+            "Option2": "Restraint",
+            "Option3": "Posey belt",
+            "Option4": "Safety strap",
+            "Correct Answer": 1
+        },
+        "Question26": {
+            "Question": "When logrolling a client it is important to keep the _________ straight.",
+            "Option1": "Feet",
+            "Option2": "Arms",
+            "Option3": "Spine",
+            "Option4": "Knees",
+            "Correct Answer": 3
+        },
+        "Question27": {
+            "Question": "Which of the following describes Fowler\u2019s position?",
+            "Option1": "The head of the bed is elevated 45 degrees",
+            "Option2": "The head of the bed is raised 15 degrees",
+            "Option3": "The head of the bed is raised, and foot of the bed is lowered",
+            "Option4": "The head of the bed is raised, and foot of the bed is raised",
+            "Correct Answer": 1
+        },
+        "Question28": {
+            "Question": "When changing the bed, you may place the dirty linens on the floor to avoid contact with the clean linens",
+            "Option1": "True",
+            "Option2": "False",
+            "Correct Answer": 2
+        },
+        "Question29": {
+            "Question": "Linens should be held:",
+            "Option1": "Close to the body",
+            "Option2": "Away from your uniform",
+            "Option3": "In your contaminated hand",
+            "Option4": "None of the above",
+            "Correct Answer": 2
+        },
+        "Question30": {
+            "Question": "An occupied bed is made for:",
+            "Option1": "A newly admitted patient",
+            "Option2": "A patient being transferred from a stretcher",
+            "Option3": "A patient on strict bed rest",
+            "Option4": "A patient returning from surgery",
+            "Correct Answer": 3
+        },
+        "Question31": {
+            "Question": "The first sign of a decubitus ulcer is:",
+            "Option1": "A break in the skin",
+            "Option2": "Drainage from a wound",
+            "Option3": "A white or reddened area of skin",
+            "Option4": "Swelling in a limb",
+            "Correct Answer": 3
+        },
+        "Question32": {
+            "Question": "When giving mouth care to the unconscious patient, you should:",
+            "Option1": "Use a firm toothbrush",
+            "Option2": "Use mouthwash to rinse the mouth",
+            "Option3": "Place the patient in an upright position",
+            "Option4": "Tell the patient what you are going to do",
+            "Correct Answer": 4
+        },
+        "Question33": {
+            "Question": "Which of the following actions is incorrect when bathing a patient?",
+            "Option1": "Cover the patient to provide warmth and privacy",
+            "Option2": "Rinse the skin thoroughly to remove all soap",
+            "Option3": "Wash from the dirtiest to the cleanest area",
+            "Option4": "Pat the skin dry",
+            "Correct Answer": 3
+        },
+        "Question34": {
+            "Question": "When the patient has a catheter. The CCA should do all of the following except:",
+            "Option1": "Keep the collection bag above the level of the bladder",
+            "Option2": "Make sure the connecting tubing is free of kinks",
+            "Option3": "Coil the tubing on the bed",
+            "Option4": "Tape the catheter to the patients thigh",
+            "Correct Answer": 1
+        },
+        "Question35": {
+            "Question": "The goal of bladder training is to:",
+            "Option1": "Remove the catheter",
+            "Option2": "Allow the person to walk to the bathroom",
+            "Option3": "Gain voluntary control of urination",
+            "Option4": "All of the above",
+            "Correct Answer": 3
+        },
+        "Question36": {
+            "Question": "You may be concerned that the patient has a fecal impaction if:",
+            "Option1": "The patient has a seepage of liquid stool from the rectum",
+            "Option2": "Large amounts of liquid stool are expelled",
+            "Option3": "The patient has no bowel movements for 1 day",
+            "Option4": "All of the above",
+            "Correct Answer": 1
+        },
+        "Question37": {
+            "Question": "Which of the following foods will provide the most protein?",
+            "Option1": "Bread and butter",
+            "Option2": "Tomatoes and rice",
+            "Option3": "Tuna fish and cheese",
+            "Option4": "Apples and oranges",
+            "Correct Answer": 3
+        },
+        "Question38": {
+            "Question": "The low salt diet controls the amount of _______________in the diet.",
+            "Option1": "Water",
+            "Option2": "Carbohydrates",
+            "Option3": "Sodium",
+            "Option4": "Fat",
+            "Correct Answer": 3
+        },
+        "Question39": {
+            "Question": "A patient is ordered to have restricted fluids. The CCA should:",
+            "Option1": "Provide a variety of fluids",
+            "Option2": "Offer fluids in small amounts and in small containers",
+            "Option3": "Offer fluids only with meals",
+            "Option4": "Prevent the patient from having oral hygiene",
+            "Correct Answer": 2
+        },
+        "Question40": {
+            "Question": "Which of the following pulses is obtained by listening with a stethoscope?",
+            "Option1": "The radial pulse",
+            "Option2": "The carotid pulse",
+            "Option3": "The apical pulse",
+            "Option4": "The brachial pulse",
+            "Correct Answer": 3
+        },
+        "Question41": {
+            "Question": "Respirations are usually counted:",
+            "Option1": "Before taking the pulse",
+            "Option2": "After taking the blood pressure",
+            "Option3": "After taking the pulse",
+            "Option4": "Before taking the temperature",
+            "Correct Answer": 3
+        },
+        "Question42": {
+            "Question": "Which of the following supportive devices will help to prevent external rotation of the hips?",
+            "Option1": "Bed boards",
+            "Option2": "Trochanter rolls",
+            "Option3": "Handrolls",
+            "Option4": "A footboard",
+            "Correct Answer": 2
+        },
+        "Question43": {
+            "Question": "Active range of motion exercises are performed:",
+            "Option1": "By the patient",
+            "Option2": "By a member of the health team",
+            "Option3": "By the patient and member of the health team working together",
+            "Option4": "Only by a physical therapist",
+            "Correct Answer": 1
+        },
+        "Question44": {
+            "Question": "If you feel a patient falling, you should try to:",
+            "Option1": "Prevent the fall",
+            "Option2": "Ease the patient to the floor",
+            "Option3": "Hurry the patient back to the chair",
+            "Option4": "Tell the patient to wait while you get help",
+            "Correct Answer": 2
+        },
+        "Question45": {
+            "Question": "Which part of the isolation gown is considered \u2018dirty\u2019?",
+            "Option1": "The neck strings",
+            "Option2": "The inside of the gown",
+            "Option3": "The outside of the gown",
+            "Option4": "All of the above",
+            "Correct Answer": 3
+        },
+        "Question46": {
+            "Question": "When double bagging:",
+            "Option1": "The same bag is used for linens, garbage, and equipment",
+            "Option2": "One worker is inside the room and the other worker is outside the room",
+            "Option3": "The outside of the \u201cclean\u201d bag can be touched",
+            "Option4": "All of the above",
+            "Correct Answer": 2
+        },
+        "Question47": {
+            "Question": "In the aging process, changes occur in the musculoskeletal system. Which of these statements is false concerning the changes?",
+            "Option1": "Bones become brittle and break more easily",
+            "Option2": "Exercise is harmful because it causes a loss of strength",
+            "Correct Answer": 2
+        },
+        "Question48": {
+            "Question": "When talking to a person with a hearing loss, it is important to do all of the following except:",
+            "Option1": "Speak clearly and distinctly",
+            "Option2": "Shout",
+            "Option3": "Stand or sit where the person can see your face",
+            "Option4": "Stand or sit on the side of the better ear",
+            "Correct Answer": 2
+        },
+        "Question49": {
+            "Question": "When caring for a person who is blind, you should:",
+            "Option1": "Speak to the person to get his or her attention",
+            "Option2": "Move furniture and equipment in the room to provide variety",
+            "Option3": "Feed the person at each meal",
+            "Option4": "Grasp the persons elbow and guide him or her from behind when walking",
+            "Correct Answer": 1
+        },
+        "Question50": {
+            "Question": "The goal of bowel training is to:",
+            "Option1": "Gain control of bowel movements",
+            "Option2": "Develop a regular pattern of elimination",
+            "Option3": "Prevent fecal impaction and constipation",
+            "Option4": "All of the above",
+            "Correct Answer": 2
+        },
+        "Question51": {
+            "Question": "If you suspect an elderly patient has been abused, what should you do?",
+            "Option1": "Call the police",
+            "Option2": "Tell the family",
+            "Option3": "Tell the nurse or supervisor",
+            "Option4": "Ask the patient if he or she has been abused",
+            "Correct Answer": 3
+        },
+        "Question52": {
+            "Question": "A growth of tissue that does not spread to other parts of the body is called:",
+            "Option1": "A malignant tumor",
+            "Option2": "Metastasis",
+            "Option3": "Gangrene",
+            "Option4": "A benign tumor",
+            "Correct Answer": 4
+        },
+        "Question53": {
+            "Question": "When caring for a patient with confusion you should include all of the following except:",
+            "Option1": "Supervision of activities of daily living",
+            "Option2": "Frequent changes in the daily routine",
+            "Option3": "Reality orientation",
+            "Option4": "Protection from injury",
+            "Correct Answer": 2
+        },
+        "Question54": {
+            "Question": "Which of the following statements is true if the patient has angina pectoris?",
+            "Option1": "Damage to the heart muscle occurs",
+            "Option2": "The patient is unable to breathe easily because of fluid in the lungs",
+            "Option3": "The pain is described as crushing, stabbing, or squeezing",
+            "Option4": "The pain is relieved with rest and nitroglycerin",
+            "Correct Answer": 4
+        },
+        "Question55": {
+            "Question": "A patient has made sexual advances to you. You should do all the following except:",
+            "Option1": "Discuss the situation with the nurse",
+            "Option2": "Do what the patient asks",
+            "Option3": "Explain to the patient that his or her behavior makes you uncomfortable",
+            "Option4": "Ask the patient not to touch you in places where you were touched",
+            "Correct Answer": 2
+        },
+        "Question56": {
+            "Question": "The signs of shock are:",
+            "Option1": "Rising blood pressure, rapid pulse, and slow respirations",
+            "Option2": "Rapid pulse, rapid respirations and warm skin",
+            "Option3": "Falling blood pressure, rapid pulse and respirations, cold moist and pale skin",
+            "Option4": "Falling blood pressure, slow pulse and respirations, thirst, restlessness, and warm, flushed skin",
+            "Correct Answer": 3
+        },
+        "Question57": {
+            "Question": "When caring for a dying patient, the CCA should",
+            "Option1": "Use touch to communicate with the patient",
+            "Option2": "Talk frequently to make the patient feel better",
+            "Option3": "Keep the room very dark",
+            "Option4": "Stay out of the room as much as possible",
+            "Correct Answer": 1
+        },
+        "Question58": {
+            "Question": "As death approaches, the last sense to leave the body is:",
+            "Option1": "Sight",
+            "Option2": "Taste",
+            "Option3": "Hearing",
+            "Option4": "Smell",
+            "Correct Answer": 3
+        },
+        "Question59": {
+            "Question": "When caring for a dying patient, you should do all of the following except:",
+            "Option1": "Clean the eyes",
+            "Option2": "Give frequent oral care",
+            "Option3": "Perform range of motion exercises",
+            "Option4": "Change the position frequently",
+            "Correct Answer": 3
+        },
+        "Question60": {
+            "Question": "Signs and symptoms of diabetic hypoglycemia",
+            "Option1": "Gradual onset, shallow respirations, nausea, chest pain",
+            "Option2": "Sudden onset, moist, pale skin, hunger, loss of consciousness",
+            "Option3": "Deep, labored respiration, nausea, loss of consciousness",
+            "Option4": "Nausea, nervousness, shallow respiration, anxiety",
+            "Correct Answer": 2
+        },
+        "Question61": {
+            "Question": "Diabetes is an indication of",
+            "Option1": "Too much glucose in the blood",
+            "Option2": "Too much sodium in the blood",
+            "Option3": "Inadequate amounts of glucose in the blood",
+            "Option4": "Inadequate amounts of potassium in the blood",
+            "Correct Answer": 1
+        },
+        "Question62": {
+            "Question": "A thrombus is:",
+            "Option1": "A fatty deposit in a vein",
+            "Option2": "A blood clot that is lodged in the walls of a blood vessel",
+            "Option3": "A blood clot that moves about the system",
+            "Option4": "A piece of plaque that obstructs a vein",
+            "Correct Answer": 2
+        },
+        "Question63": {
+            "Question": "When performing postmortem care, you should:",
+            "Option1": "Use standard precautions",
+            "Option2": "Place the dentures in the mouth",
+            "Option3": "Close the eyes",
+            "Option4": "All of the above",
+            "Correct Answer": 4
+        },
+        "Question64": {
+            "Question": "When assisting a resident with ADL\u2019s, the CCA should:",
+            "Option1": "Allow the resident to do as much for her/him self as possible",
+            "Option2": "Perform all ADL\u2019s quickly for the resident to save time",
+            "Option3": "Tell the resident to do the upper part of her body and you ill do the lower part",
+            "Option4": "Bathe the resident, then instruct the resident to dress",
+            "Correct Answer": 1
+        },
+        "Question65": {
+            "Question": "Verbal cues are:",
+            "Option1": "Lengthy explanations about what you are going to do",
+            "Option2": "Short simple conversations",
+            "Option3": "Simple phrases to prompt the resident",
+            "Option4": "Social interactions",
+            "Correct Answer": 3
+        },
+        "Question66": {
+            "Question": "Adaptive devices are:",
+            "Option1": "Items that replace a body part",
+            "Option2": "Everyday items that have been modified to assist with independent ADL skills",
+            "Option3": "The same thing as a prosthesis",
+            "Option4": "Orthopedic items that are used to brace and splint areas of the body",
+            "Correct Answer": 2
+        },
+        "Question67": {
+            "Question": "A resident with terminal cancer tells you that she \u201cdoes not have much time left\u201d. This is an example of",
+            "Option1": "Bargaining",
+            "Option2": "Denial",
+            "Option3": "Grieving",
+            "Option4": "Acceptance",
+            "Correct Answer": 4
+        },
+        "Question68": {
+            "Question": "Newborns have certain reflexes. Which reflex is necessary for feeding? (it guides the baby\u2019s mouth to the nipple)",
+            "Option1": "gag reflex",
+            "Option2": "Rooting reflex",
+            "Option3": "Startle reflex",
+            "Option4": "Grasping reflex",
+            "Correct Answer": 2
+        },
+        "Question69": {
+            "Question": "Toilet training is a major developmental task for:",
+            "Option1": "Infants",
+            "Option2": "Toddlers",
+            "Option3": "Preschool children",
+            "Option4": "Six-year-old children",
+            "Correct Answer": 2
+        },
+        "Question70": {
+            "Question": "At what stage should children receive factual sex education?",
+            "Option1": "Toddlerhood",
+            "Option2": "Preschool age",
+            "Option3": "Middle childhood",
+            "Option4": "Late childhood",
+            "Correct Answer": 4
+        },
+        "Question71": {
+            "Question": "Which is not a developmental task of adolescence?",
+            "Option1": "Accepting change in appearance",
+            "Option2": "Becoming independent from parents",
+            "Option3": "Developing leisure time activities",
+            "Option4": "Developing morals, values and attitudes",
+            "Correct Answer": 3
+        },
+        "Question72": {
+            "Question": "Adjusting to retirement and reduced income is a developmental task of:",
+            "Option1": "Adolescence",
+            "Option2": "Young adulthood",
+            "Option3": "Late adulthood",
+            "Option4": "Middle adulthood",
+            "Correct Answer": 3
+        },
+        "Question73": {
+            "Question": "You notice a frayed electrical cord on a patient\u2019s bed. You should:",
+            "Option1": "Call someone to fix it",
+            "Option2": "Report it to the nurse immediately",
+            "Option3": "Tell the patient",
+            "Option4": "Report it at the end of your shift",
+            "Correct Answer": 2
+        },
+        "Question74": {
+            "Question": "You must check the MSDS before:",
+            "Option1": "Using a hazardous substance",
+            "Option2": "Cleaning up a leak or spill",
+            "Option3": "Disposing of the substance",
+            "Option4": "All of the above",
+            "Correct Answer": 4
+        },
+        "Question75": {
+            "Question": "Which practice does not promote safety where oxygen is used?",
+            "Option1": "Turning electrical equipment off after it is unplugged",
+            "Option2": "Removing smoking materials from the room",
+            "Option3": "\u201cno smoking\u201d signs",
+            "Option4": "Removing wool blankets and synthetic fibers from the person\u2019s room",
+            "Correct Answer": 1
+        },
+        "Question76": {
+            "Question": "Mrs. Sanchez has an order for NPO. This means that:",
+            "Option1": "Fluids are restricted",
+            "Option2": "Records are kept of oral intake",
+            "Option3": "She cannot eat or drink anything",
+            "Option4": "She is encouraged to drink a variety of fluids",
+            "Correct Answer": 3
+        },
+        "Question77": {
+            "Question": "A cotton drawsheet:",
+            "Option1": "Is always used when a plastic drawsheet is used",
+            "Option2": "Must completely cover the plastic drawsheet",
+            "Option3": "Keeps the mattress and bottom sheet clean and dry",
+            "Option4": "All of the above",
+            "Correct Answer": 4
+        },
+        "Question78": {
+            "Question": "The breathing of fluid or an object into the lungs is:",
+            "Option1": "Gavage",
+            "Option2": "Dysphagia",
+            "Option3": "Aspiration",
+            "Option4": "Regurgitation",
+            "Correct Answer": 3
+        },
+        "Question79": {
+            "Question": "Dietary guidelines for Canadians include all of the following except:",
+            "Option1": "Eat a variety of food",
+            "Option2": "Maintain a healthy weight",
+            "Option3": "Choose a diet low in fat",
+            "Option4": "Choose a high sodium diet",
+            "Correct Answer": 4
+        },
+        "Question80": {
+            "Question": "Which foods are high in vitamin C?",
+            "Option1": "Citrus fruits, tomatoes, green vegetables",
+            "Option2": "Meat and peanuts",
+            "Option3": "Milk, butter, liver",
+            "Option4": "Pasta, cereal, oatmeal",
+            "Correct Answer": 1
+        },
+        "Question81": {
+            "Question": "Which vegetables are not allowed on a 1000mg sodium diet?",
+            "Option1": "Steamed carrots",
+            "Option2": "Steamed broccoli",
+            "Option3": "Sauerkraut",
+            "Option4": "Lettuce",
+            "Correct Answer": 3
+        },
+        "Question82": {
+            "Question": "You are making an occupied bed. Which is incorrect?",
+            "Option1": "Keep the person in good body alignment",
+            "Option2": "Raise the bed for good body mechanics",
+            "Option3": "Cover the person with the bedspread",
+            "Option4": "Lower the bed rail nearest you",
+            "Correct Answer": 3
+        },
+        "Question83": {
+            "Question": "Which is not a cleaning guideline?",
+            "Option1": "Work from higher to lower",
+            "Option2": "Work from dry to wet",
+            "Option3": "Work from near to far",
+            "Option4": "Rinse and dry washed surfaces",
+            "Correct Answer": 3
+        },
+        "Question84": {
+            "Question": "Which household product will remove stains?",
+            "Option1": "Disinfectant",
+            "Option2": "Baking soda",
+            "Option3": "Vinegar",
+            "Option4": "Boiling water",
+            "Correct Answer": 2
+        },
+        "Question85": {
+            "Question": "Which is not part of your responsibilities when cleaning bedrooms?",
+            "Option1": "Change the linens",
+            "Option2": "Straighten the bed",
+            "Option3": "Make the bed",
+            "Option4": "Organize the client\u2019s dresser drawers",
+            "Correct Answer": 4
+        },
+        "Question86": {
+            "Question": "Which steps will help you organize your time?",
+            "Option1": "Set priorities",
+            "Option2": "Set time limits for each task",
+            "Option3": "Focus on the task",
+            "Option4": "All of the above",
+            "Correct Answer": 4
+        },
+        "Question87": {
+            "Question": "Muscle atrophy is:",
+            "Option1": "The abnormal shortening of a muscle",
+            "Option2": "Bending backward",
+            "Option3": "A decrease in the size or a wasting away of the muscle tissue",
+            "Option4": "Excessive straightening of a body part",
+            "Correct Answer": 3
+        },
+        "Question88": {
+            "Question": "Mr. Jones is on bedrest. Which is correct?",
+            "Option1": "some activity is allowed",
+            "Option2": "Good body alignment is important",
+            "Option3": "He can use the bathroom for eliminations",
+            "Option4": "He has orthostatic hypotension",
+            "Correct Answer": 2
+        },
+        "Question89": {
+            "Question": "Bed cradles are used to:",
+            "Option1": "Keep the weight of top linens off the feet",
+            "Option2": "Keep the hips abducted",
+            "Option3": "Prevent plantar flexion",
+            "Option4": "Prevent the mattress from sagging",
+            "Correct Answer": 1
+        },
+        "Question90": {
+            "Question": "Which statement about range of motion exercises is incorrect?",
+            "Option1": "ROM exercises can cause injury if not done correctly",
+            "Option2": "The nurse tells you which joints to exercise",
+            "Option3": "The joint is moved past the point of pain",
+            "Option4": "The joint is moved slowly, smoothly, and gently",
+            "Correct Answer": 3
+        },
+        "Question91": {
+            "Question": "Mrs. Adams uses crutches to walk. Which does not promote safety?",
+            "Option1": "A physical therapist measures and fits her with crutches",
+            "Option2": "Crutch tips are attached to the crutches",
+            "Option3": "Clothes must fit well",
+            "Option4": "Comfortable bedroom slippers are worn",
+            "Correct Answer": 4
+        },
+        "Question92": {
+            "Question": "Braces are used to:",
+            "Option1": "Support weak body parts",
+            "Option2": "Prevent or correct deformations",
+            "Option3": "Prevent joint movement",
+            "Option4": "All of the above",
+            "Correct Answer": 4
+        },
+        "Question93": {
+            "Question": "Mr. Brown has an ankle brace. You notice a reddened area on the ankle bone when you remove the brace. You should:",
+            "Option1": "Put a bandage on the reddened area",
+            "Option2": "Massage the reddened area",
+            "Option3": "Report your observation to the nurse",
+            "Option4": "All of the above",
+            "Correct Answer": 3
+        },
+        "Question94": {
+            "Question": "A fire plan should include which of the following?",
+            "Option1": "Having a fire extinguisher in an easy to get location in the home",
+            "Option2": "Checking batteries in the smoke alarms 2 times a month",
+            "Option3": "One exit from each room",
+            "Option4": "Having extra food and water on hand",
+            "Correct Answer": 1
+        },
+        "Question95": {
+            "Question": "What does the acronym R.A.C.E. stand for?",
+            "Option1": "Run, alert, call 911 and evacuate",
+            "Option2": "Remove people in immediate area, activate alarm, call 911, evaluate or extinguish",
+            "Option3": "Remove people in immediate area, activate alarm, contain fire, evacuate or extinguish",
+            "Option4": "Remove people in immediate area, activate alarm, cause of fire, evacuate and extinguish",
+            "Correct Answer": 3
+        },
+        "Question96": {
+            "Question": "Fire safety in the kitchen includes:",
+            "Option1": "Deep frying foods in a pot with no lid",
+            "Option2": "Wearing loose clothing",
+            "Option3": "Keep baking soda near the stove to distinguish flames",
+            "Option4": "smoking near a gas stove",
+            "Correct Answer": 3
+        },
+        "Question97": {
+            "Question": "(Circle the correct definition for each abbreviation) H.S.:",
+            "Option1": "daytime",
+            "Option2": "bedtime",
+            "Option3": "leisure time",
+            "Option4": "mealtime",
+            "Correct Answer": 2
+        },
+        "Question98": {
+            "Question": "bid",
+            "Option1": "every two hours",
+            "Option2": "two times a day",
+            "Option3": "three times a day",
+            "Option4": "every three hours",
+            "Correct Answer": 2
+        },
+        "Question99": {
+            "Question": "p.o.",
+            "Option1": "by needle",
+            "Option2": "before meals",
+            "Option3": "by mouth",
+            "Option4": "after meals",
+            "Correct Answer": 3
+        },
+        "Question100": {
+            "Question": "stat",
+            "Option1": "immediately",
+            "Option2": "soon as you can",
+            "Option3": "end of shift",
+            "Option4": "beginning of shift",
+            "Correct Answer": 1
+        },
+        "Question101": {
+            "Question": "(Circle the abbreviation for each definition) Three times a day",
+            "Option1": "tid",
+            "Option2": "bid",
+            "Option3": "q3d",
+            "Option4": "3xday",
+            "Correct Answer": 1
+        },
+        "Question102": {
+            "Question": "Before meals",
+            "Option1": "pc",
+            "Option2": "oc",
+            "Option3": "ad",
+            "Option4": "ac",
+            "Correct Answer": 4
+        },
+        "Question103": {
+            "Question": "as necessary",
+            "Option1": "a.s.a.p.",
+            "Option2": "psn",
+            "Option3": "prn",
+            "Option4": "pnn",
+            "Correct Answer": 3
+        },
+        "Question104": {
+            "Question": "(Circle the definition for each of the following) hypo",
+            "Option1": "under",
+            "Option2": "over",
+            "Option3": "side",
+            "Option4": "pain",
+            "Correct Answer": 1
+        },
+        "Question105": {
+            "Question": "itis",
+            "Option1": "inflammation",
+            "Option2": "pain",
+            "Option3": "sweating",
+            "Option4": "joint",
+            "Correct Answer": 1
+        },
+        "Question106": {
+            "Question": "pnea",
+            "Option1": "vein",
+            "Option2": "breathing",
+            "Option3": "chest",
+            "Option4": "heart",
+            "Correct Answer": 2
+        },
+        "Question107": {
+            "Question": "The process of physically and chemically breaking down food so it can be absorbed for use by the cells of the body is",
+            "Option1": "Absorption",
+            "Option2": "Elimination",
+            "Option3": "Ingestion",
+            "Option4": "Digestion",
+            "Correct Answer": 4
+        },
+        "Question108": {
+            "Question": "TPR and BP are known as the four ______________ of body function.",
+            "Option1": "Parameters",
+            "Option2": "Quadrants",
+            "Option3": "Vital signs",
+            "Option4": "Regions",
+            "Correct Answer": 3
+        },
+        "Question109": {
+            "Question": "When lifting a body part with a cast, support it with your",
+            "Option1": "Forearm",
+            "Option2": "Fingers",
+            "Option3": "Palms",
+            "Option4": "Wrists",
+            "Correct Answer": 3
+        },
+        "Question110": {
+            "Question": "Multiple sclerosis is a disease of the nervous system",
+            "Option1": "True",
+            "Option2": "False",
+            "Correct Answer": 1
+        },
+        "Question111": {
+            "Question": "Clothing is removed from the strong side of the body first.",
+            "Option1": "True",
+            "Option2": "False",
+            "Correct Answer": 1
+        },
+        "Question112": {
+            "Question": "Which of the following is used to measure blood pressure?",
+            "Option1": "Thermometer.",
+            "Option2": "Sphygmomanometer.",
+            "Option3": "Stethoscope.",
+            "Option4": "Cuff.",
+            "Correct Answer": 2
+        },
+        "Question113": {
+            "Question": "A heart rate over 100 beats per minute is called:",
+            "Option1": "Bradycardia.",
+            "Option2": "Tachycardia.",
+            "Option3": "Hypotension.",
+            "Option4": "Hypertension",
+            "Correct Answer": 2
+        },
+        "Question114": {
+            "Question": "The healthy adult has:",
+            "Option1": "10 to 14 respirations per minute.",
+            "Option2": "12 to 18 respirations per minute.",
+            "Option3": "12 to 20 respirations per minute.",
+            "Option4": "15 to 30 respirations per minute.",
+            "Correct Answer": 3
+        },
+        "Question115": {
+            "Question": "The blood pressure cuff is applied:",
+            "Option1": "Over clothing.",
+            "Option2": "To the bare arm.",
+            "Option3": "Over the radial artery.",
+            "Option4": "Over the brachial artery.",
+            "Correct Answer": 2
+        },
+        "Question116": {
+            "Question": "Heat applications:",
+            "Option1": "Reduce bleeding.",
+            "Option2": "Decrease blood flow.",
+            "Option3": "Promote healing.",
+            "Option4": "Numb the skin.",
+            "Correct Answer": 3
+        },
+        "Question117": {
+            "Question": "Heat and cold applications are applied for:",
+            "Option1": "5 to 10 minutes.",
+            "Option2": "10 to 15 minutes.",
+            "Option3": "15 to 20 minutes.",
+            "Option4": "20 to 25 minutes.",
+            "Correct Answer": 2
+        },
+        "Question118": {
+            "Question": "When cold is applied to the skin, blood vessels:",
+            "Option1": "Dilate.",
+            "Option2": "Constrict.",
+            "Option3": "Collapse.",
+            "Option4": "Become less elastic.",
+            "Correct Answer": 2
+        },
+        "Question119": {
+            "Question": "For a sprained ankle, cold applications are best applied:",
+            "Option1": "Right after the injury.",
+            "Option2": "A day after the injury.",
+            "Option3": "Two days after the injury.",
+            "Option4": "A week after the injury",
+            "Correct Answer": 1
+        },
+        "Question120": {
+            "Question": "When respirations are fewer than 12 per minute, it is called:",
+            "Option1": "Apnea.",
+            "Option2": "Bradypnea.",
+            "Option3": "Orthopnea.",
+            "Option4": "Tachypnea.",
+            "Correct Answer": 2
+        },
+        "Question121": {
+            "Question": "Difficult, laboured, or painful breathing is called:",
+            "Option1": "Apnea.",
+            "Option2": "Bradypnea.",
+            "Option3": "Dyspnea.",
+            "Option4": "Orthopnea.",
+            "Correct Answer": 3
+        },
+        "Question122": {
+            "Question": "Hypoxia means:",
+            "Option1": "Respiratory depression.",
+            "Option2": "Cells do not have enough oxygen.",
+            "Option3": "Breathing stops.",
+            "Option4": "Slow and weak respirations.",
+            "Correct Answer": 2
+        },
+        "Question123": {
+            "Question": "When respirations are greater than 20 per minute, it is called:",
+            "Option1": "Apnea.",
+            "Option2": "Bradypnea.",
+            "Option3": "Dyspnea.",
+            "Option4": "Tachypnea.",
+            "Correct Answer": 4
+        },
+        "Question124": {
+            "Question": "Narcotics affect oxygen needs because they:",
+            "Option1": "Cause brain damage.",
+            "Option2": "Depress the respiratory center in the brain.",
+            "Option3": "Decrease heart rate and blood flow.",
+            "Option4": "Cause swelling of the mucous membranes in the upper airway.",
+            "Correct Answer": 2
+        },
+        "Question125": {
+            "Question": "What is a suspension?",
+            "Option1": "Medication that is dissolved in a liquid containing alcohol or water and that contains flavoring.",
+            "Option2": "Medication that is in a liquid and may be labelled \u201cShake before using.\u201d",
+            "Option3": "Medication that is dissolved in a concentrated sugar solution.",
+            "Option4": "Medication that is held in a concentrated alcohol solution",
+            "Correct Answer": 2
+        },
+        "Question126": {
+            "Question": "What is an elixir?",
+            "Option1": "Medication that is dissolved in a liquid containing alcohol or water and that contains flavouring.",
+            "Option2": "Medication that is in a liquid and may be labelled \u201cShake before using.\u201d",
+            "Option3": "Medication that is dissolved in a concentrated sugar solution.",
+            "Option4": "Medication that is held in a concentrated alcohol solution.",
+            "Correct Answer": 1
+        },
+        "Question127": {
+            "Question": "Your client applies eye drops after her cataract surgery. What kind of effect would this medication have?",
+            "Option1": "Systemic.",
+            "Option2": "Localized.",
+            "Option3": "Topical.",
+            "Option4": "Varied",
+            "Correct Answer": 2
+        },
+        "Question128": {
+            "Question": "Your client applies an ointment on a rash. What kind of effect would this medication have?",
+            "Option1": "Systemic.",
+            "Option2": "Localized.",
+            "Option3": "Topical.",
+            "Option4": "Varied.",
+            "Correct Answer": 3
+        },
+        "Question129": {
+            "Question": "Your client takes nitroglycerine for angina pain. What observations should be reported to the supervisor right away?",
+            "Option1": "Relief of the pain.",
+            "Option2": "No relief of the pain after three doses.",
+            "Option3": "Headache after taking the medication.",
+            "Option4": "Nausea and dizziness after taking the medication",
+            "Correct Answer": 2
+        },
+        "Question130": {
+            "Question": "The client has been ordered a sublingual medication. How would the medication be administered?",
+            "Option1": "The medication would be placed inside her mouth against her cheek.",
+            "Option2": "The medication would be injected under the skin.",
+            "Option3": "The medication would be placed under her tongue.",
+            "Option4": "The medication would be placed in the anus.",
+            "Correct Answer": 3
+        },
+        "Question131": {
+            "Question": "How would a medication in the form of a suppository be administered?",
+            "Option1": "The medication would be placed inside her mouth against her cheek.",
+            "Option2": "The medication would be injected under the skin.",
+            "Option3": "The medication would be placed under her tongue.",
+            "Option4": "The medication would be placed in the anus",
+            "Correct Answer": 4
+        },
+        "Question132": {
+            "Question": "When the client must take a medication on an empty stomach, when should it be taken?",
+            "Option1": "30 minutes after eating.",
+            "Option2": "1 hour before eating.",
+            "Option3": "1 hour after eating.",
+            "Option4": "30 minutes after eating.",
+            "Correct Answer": 2
+        },
+        "Question133": {
+            "Question": "A client taking pain medication develops constipation. This reaction would be called a(n):",
+            "Option1": "Side effect.",
+            "Option2": "Adverse reaction.",
+            "Option3": "Therapeutic response.",
+            "Option4": "Normal reaction.",
+            "Correct Answer": 1
+        },
+        "Question134": {
+            "Question": "When you are putting medication away for your client, you notice that one of the bottles has his wife\u2019s name on it. You bring it to his attention and ask him if he took one from it and he replies yes. What should you do?",
+            "Option1": "Find out whether he is also on that medication.",
+            "Option2": "Suggest that he keep his wife\u2019s medications in different place from his own medications.",
+            "Option3": "Notify your supervisor and complete an incident report.",
+            "Option4": "Remove the medication and place it where he cannot access it.",
+            "Correct Answer": 3
+        },
+        "Question135": {
+            "Question": "Before administering creams, ointments or drops you must:",
+            "Option1": "Ensure it is in your Scope of Practice",
+            "Option2": "Ensure it is in your Scope of Employment",
+            "Option3": "Be trained to administer creams, ointments or drops",
+            "Option4": "All of the above",
+            "Correct Answer": 4
+        },
+        "Question136": {
+            "Question": "Topical medication is removed from the container using a(n):",
+            "Option1": "ungloved finger",
+            "Option2": "Spoon",
+            "Option3": "Tongue blade",
+            "Option4": "By the client",
+            "Correct Answer": 3
+        },
+        "Question137": {
+            "Question": "Immediately after applying eye ointment to the lower lid the client should:",
+            "Option1": "Close their eyes",
+            "Option2": "Be careful not to blink",
+            "Option3": "Wipe their eyes with a tissue",
+            "Option4": "Be careful not to \u201csniff\u201d",
+            "Correct Answer": 1
+        },
+        "Question138": {
+            "Question": "When administering eye drops it is important to:",
+            "Option1": "Ensure the eyes have been cleaned",
+            "Option2": "Pull down on the lower lid of the eye and have the client look down",
+            "Option3": "Have the client tilt their head downwards towards their toes",
+            "Option4": "Insert the dropper under the lid",
+            "Correct Answer": 1
+        },
+        "Question139": {
+            "Question": "When administering ear drops it is important to:",
+            "Option1": "Pull the ear upward and outward in an infant",
+            "Option2": "Gently massage the tragus",
+            "Option3": "Pull the ear downward and back in an adult",
+            "Option4": "Have client lay on the affected side immediately after applying",
+            "Correct Answer": 2
+        },
+        "Question140": {
+            "Question": "Medicated shampoos are an example of a(n):",
+            "Option1": "topical medication",
+            "Option2": "Oral medication",
+            "Option3": "Sublingual medication",
+            "Option4": "Rectal medication",
+            "Correct Answer": 1
+        },
+        "Question141": {
+            "Question": "A systolic blood pressure below 90 mm Hg and a diastolic pressure below 60 mm Hg is referred to as:",
+            "Option1": "Hypertension.",
+            "Option2": "Hypotension.",
+            "Option3": "Bradycardia.",
+            "Option4": "Tachycardia.",
+            "Correct Answer": 2
+        },
+        "Question142": {
+            "Question": "The number of pulses felt in 1 minute is called:",
+            "Option1": "Pulse",
+            "Option2": "Pulse deficit",
+            "Option3": "Pulse rate",
+            "Option4": "Heartbeat",
+            "Correct Answer": 3
+        },
+        "Question143": {
+            "Question": "When a drug causes the desired, positive effect in the body, it is called a(n):",
+            "Option1": "Side effect.",
+            "Option2": "Adverse reaction.",
+            "Option3": "Therapeutic reaction.",
+            "Option4": "Normal reaction.",
+            "Correct Answer": 3
+        },
+        "Question144": {
+            "Question": "CCA\u2019s are allowed to apply medication creams, ointments and drops that have a systemic effect.",
+            "Option1": "True",
+            "Option2": "False",
+            "Correct Answer": 2
+        },
+        "Question145": {
+            "Question": "The CCA is responsible for determining if the medicated creams, ointments and drops are working effectively and making decisions regarding the continuation or stoppage of their use.",
+            "Option1": "True",
+            "Option2": "False",
+            "Correct Answer": 2
+        },
+        "Question146": {
+            "Question": "Only the LPN/RN is responsible for documenting in the MAR and the Narrative Notes.",
+            "Option1": "True",
+            "Option2": "False",
+            "Correct Answer": 2
+        },
+        "Question147": {
+            "Question": "The LPN/RN Supervisor is responsible for initial client education but the CCA is responsible to ensure that the client understands the purpose of the medicated cream, ointments or drop.",
+            "Option1": "True",
+            "Option2": "False",
+            "Correct Answer": 1
+        },
+        "Question148": {
+            "Question": "Which is true:",
+            "Option1": "Verbal communication does not involve the spoken word",
+            "Option2": "Verbal communication is the truest example of a person\u2019s feelings",
+            "Option3": "Messages can be sent by facial expressions, gestures, posture, body movements, appearance, and eye contact",
+            "Option4": "All people like to be touched",
+            "Correct Answer": 3
+        },
+        "Question149": {
+            "Question": "Which statement will promote communication?",
+            "Option1": "\u201cDon\u2019t worry.\u2019",
+            "Option2": "\u201cEverything will be just fine.\u201d",
+            "Option3": "\u201cThis is a good facility.\u201d",
+            "Option4": "\u201cI see you are upset. Do you want to talk about it?\u201d",
+            "Correct Answer": 4
+        },
+        "Question150": {
+            "Question": "Which is a barrier to communication?",
+            "Option1": "Interrupting",
+            "Option2": "Repeating what the person says",
+            "Option3": "Giving advice",
+            "Option4": "A and C",
+            "Correct Answer": 4
+        }
+    },
+    "Exam8": {
+        "id": 8,
+        "quesNum": 75,
+        "Question1": {
+            "Question": "What are the most appropriate alternatives to physical restraints?",
+            "Option1": "Changing the person's habits and routines",
+            "Option2": "Using a mitt restraint so the person cannot hurt themselves",
+            "Option3": "Using activities that occupy the person's time and energy",
+            "Option4": "Isolating the person from other people and family",
+            "Correct Answer": 3
+        },
+        "Question2": {
+            "Question": "What is metabolization?",
+            "Option1": "The passage of a drug from the site of administration into the bloodstream",
+            "Option2": "Chemical reactions that convert a drug from smaller molecules into waste products",
+            "Option3": "The process through which medication enters and is absorbed by the body",
+            "Option4": "The course the drug takes through the bloodstream to the body tissues at the intended site of action",
+            "Correct Answer": 2
+        },
+        "Question3": {
+            "Question": "Which statement is true about growth?",
+            "Option1": "It results from psychological and social functioning",
+            "Option2": "It results from learned behaviour and maturation",
+            "Option3": "It refers to acquiring new skills",
+            "Option4": "It is measurable and orderly",
+            "Correct Answer": 4
+        },
+        "Question4": {
+            "Question": "When receiving oral care an unconscious person is at risk for:",
+            "Option1": "Aspiration",
+            "Option2": "Plaque formation",
+            "Option3": "Emphysema",
+            "Option4": "Periodontal disease",
+            "Correct Answer": 1
+        },
+        "Question5": {
+            "Question": "Mr. Williams has paralysis of both legs. How should his activities of daily living (ADL) be managed?",
+            "Option1": "Done entirely by the nurse",
+            "Option2": "Done by him to the extent possible",
+            "Option3": "Supervised by a physiotherapist",
+            "Option4": "Postponed until he regains use of his legs",
+            "Correct Answer": 2
+        },
+        "Question6": {
+            "Question": "What is the best position for a person in order to promote defecation?",
+            "Option1": "Semi-Fowler's",
+            "Option2": "Fowler's",
+            "Option3": "Lateral",
+            "Option4": "Sims'",
+            "Correct Answer": 2
+        },
+        "Question7": {
+            "Question": "If a person is having a seizure, what is the first thing a CCA should do?",
+            "Option1": "Run for help",
+            "Option2": "Insert a tongue depressor",
+            "Option3": "Protect person from injury",
+            "Option4": "Apply a restraint",
+            "Correct Answer": 3
+        },
+        "Question8": {
+            "Question": "If a person is diagnosed with congestive heart failure, which task would be most as part of the person's care?",
+            "Option1": "Measure weight monthly",
+            "Option2": "Apply elastic stockings as per care plan",
+            "Option3": "Encourage participation in an hour-long daily exercise program",
+            "Option4": "Encourage fluids levels at 2000 ml per day",
+            "Correct Answer": 2
+        },
+        "Question9": {
+            "Question": "How can a CCA best provide support to the client and family?",
+            "Option1": "Giving advice",
+            "Option2": "Being respectful",
+            "Option3": "Offering solutions",
+            "Option4": "Acting sympathetic",
+            "Correct Answer": 2
+        },
+        "Question10": {
+            "Question": "Which statement best describes how CCAs should handle linen?",
+            "Option1": "Apply gloves before handling clean linen",
+            "Option2": "Collect linen in order of use",
+            "Option3": "Return unused linen to the linen closet",
+            "Option4": "Place dirty linen on the floor near the person's bed",
+            "Correct Answer": 2
+        },
+        "Question11": {
+            "Question": "When employed by a person under self-managed care, which of the following guides the practice of a CCA?",
+            "Option1": "Employer's policies and procedures",
+            "Option2": "Scope of employment",
+            "Option3": "Delegated tasks",
+            "Option4": "Scope of practice",
+            "Correct Answer": 4
+        },
+        "Question12": {
+            "Question": "Which of the following would be an example of assisting with medications?",
+            "Option1": "Putting a medicated cream on person's skin and having them rub it in",
+            "Option2": "Putting an inhaler in a person's mouth and pressing to expel the medication so they can inhale it",
+            "Option3": "Opening a medication bottle and handing it to person",
+            "Option4": "Putting a tablet in a person's hand so they can take it",
+            "Correct Answer": 3
+        },
+        "Question13": {
+            "Question": "What is a responsibility of the CCA when a person is receiving oxygen therapy?",
+            "Option1": "Adjust the flow meter",
+            "Option2": "Ensure the nasal cannula or facial mask is clean",
+            "Option3": "Turn off the oxygen so the person can go for a walk",
+            "Option4": "Decide if a nasal cannula or a face mask is more appropriate",
+            "Correct Answer": 2
+        },
+        "Question14": {
+            "Question": "Mrs. Brown has injured her right arm. How should the CCA best assist her to change her nightgown?",
+            "Option1": "Put the clean gown on the left arm first",
+            "Option2": "Support the right arm while removing the gown",
+            "Option3": "Remove the gown from the right arm first",
+            "Option4": "Remove the gown over the head",
+            "Correct Answer": 2
+        },
+        "Question15": {
+            "Question": "What is the most common cause of COPD (Chronic Obstructive Pulmonary Disease) ?",
+            "Option1": "Dust and chemical fumes",
+            "Option2": "Allergies",
+            "Option3": "Medications",
+            "Option4": "Smoking",
+            "Correct Answer": 4
+        },
+        "Question16": {
+            "Question": "Which person is most likely to contract MRSA during a stay in an acute care setting?",
+            "Option1": "10 year old child",
+            "Option2": "Older adult",
+            "Option3": "Healthy adult",
+            "Option4": "Person allergic to antibiotics",
+            "Correct Answer": 2
+        },
+        "Question17": {
+            "Question": "Which of the following should a CCA do when assisting a visually impaired person at meal time?",
+            "Option1": "Feed the person from the left side",
+            "Option2": "Place his food and beverages directly in front of him",
+            "Option3": "Explain the location of food and beverages on his tray",
+            "Option4": "Let him remove the covers on the food",
+            "Correct Answer": 3
+        },
+        "Question18": {
+            "Question": "Which of the following statements is most accurate of mental illness?",
+            "Option1": "It can be caused by a combination of factors",
+            "Option2": "It requires frequent hospitalization",
+            "Option3": "It is always debilitating",
+            "Option4": "Only the elderly are affected",
+            "Correct Answer": 1
+        },
+        "Question19": {
+            "Question": "What is the correct medical term represented by the abbreviation \"PO\"?",
+            "Option1": "After meals",
+            "Option2": "By mouth",
+            "Option3": "Per order",
+            "Option4": "Before meals",
+            "Correct Answer": 2
+        },
+        "Question20": {
+            "Question": "If a person loses interest in eating, what should the CCA do?",
+            "Option1": "Offer them smaller portions",
+            "Option2": "Offer finger foods",
+            "Option3": "Offer liquid diet",
+            "Option4": "Offer to feed them",
+            "Correct Answer": 1
+        },
+        "Question21": {
+            "Question": "Twenty-year-old Timothy is unable to develop any meaningful relationships and bonding with others. Which of Maslow's Needs is Timothy unable to meet?",
+            "Option1": "Self-esteem",
+            "Option2": "Love and belonging",
+            "Option3": "Safety and security",
+            "Option4": "Physical",
+            "Correct Answer": 2
+        },
+        "Question22": {
+            "Question": "What should the CCA do when shaving a person's face?",
+            "Option1": "Use electric razor",
+            "Option2": "Apply alcohol based after-shave lotion",
+            "Option3": "Use safety razor",
+            "Option4": "Follow routine practices",
+            "Correct Answer": 4
+        },
+        "Question23": {
+            "Question": "Which of the following actions should be avoided if a person is experiencing a manic episode?",
+            "Option1": "Encouraging rest",
+            "Option2": "Arguing with person",
+            "Option3": "Offering clear, limited choices",
+            "Option4": "Providing a calm environment",
+            "Correct Answer": 2
+        },
+        "Question24": {
+            "Question": "When a person has a scheduled or continuous feeding tube, how should the CCA best assist them?",
+            "Option1": "Flush the tube after the feeding is finished",
+            "Option2": "Offer frequent mouth care",
+            "Option3": "Give the first dose of a tube feed",
+            "Option4": "Test the position of the tube",
+            "Correct Answer": 2
+        },
+        "Question25": {
+            "Question": "What does cyanosis indicate?",
+            "Option1": "Fluid in the tissues",
+            "Option2": "Renal failure",
+            "Option3": "Liver disease",
+            "Option4": "Lack of oxygen",
+            "Correct Answer": 4
+        },
+        "Question26": {
+            "Question": "What is the best practice when completing care setting management tasks?",
+            "Option1": "Tell the person you do not have time to visit",
+            "Option2": "Complete the easy tasks first",
+            "Option3": "Work as fast as possible to finish on time",
+            "Option4": "Use your time wisely",
+            "Correct Answer": 4
+        },
+        "Question27": {
+            "Question": "What should the CCA do if they arrive at person's home at 0800 and find that the pills for suppertime and bedtime for that day are missing from the dosette?",
+            "Option1": "Contact supervisor and fill out an incident report",
+            "Option2": "Fill the dosette",
+            "Option3": "Ignore and continue on with tasks",
+            "Option4": "Speak with the person and get them to fill dosette",
+            "Correct Answer": 1
+        },
+        "Question28": {
+            "Question": "When the CCA leaves the person's home in a neat and orderly condition, which compassionate care principle is promoted most clearly?",
+            "Option1": "Dependence",
+            "Option2": "Independence",
+            "Option3": "Integrity",
+            "Option4": "Dignity",
+            "Correct Answer": 4
+        },
+        "Question29": {
+            "Question": "What is important to remember when a CCA is communicating with a person she/he is caring for?",
+            "Option1": "Touch the person before speaking to them",
+            "Option2": "Being silent is a sign of disrespect",
+            "Option3": "Non-verbal communication is important",
+            "Option4": "Always communicate loudly so they can hear",
+            "Correct Answer": 3
+        },
+        "Question30": {
+            "Question": "Which of the following is true about good oral hygiene?",
+            "Option1": "It is not important for good overall health",
+            "Option2": "It does not impact nutritional status",
+            "Option3": "It prevents mouth odor and infection",
+            "Option4": "It is performed once per day",
+            "Correct Answer": 3
+        },
+        "Question31": {
+            "Question": "What is the proper term for not meeting a child's needs for affection and attention?",
+            "Option1": "Physical Abuse",
+            "Option2": "Emotional Abuse",
+            "Option3": "Financial Abuse",
+            "Option4": "Aggressive Abuse",
+            "Correct Answer": 2
+        },
+        "Question32": {
+            "Question": "What are delusions of persecution?",
+            "Option1": "Falsely exaggerated beliefs about one's importance, talents, or wealth",
+            "Option2": "Extreme suspicion about a person or situation",
+            "Option3": "False beliefs that one is being mistreated, abused or harassed",
+            "Option4": "False beliefs about their surroundings or environment",
+            "Correct Answer": 3
+        },
+        "Question33": {
+            "Question": "Which of the following is one of the classic symptoms of diabetes?",
+            "Option1": "Loss of appetite",
+            "Option2": "Weight gain",
+            "Option3": "Excessive thirst",
+            "Option4": "Decreased urination",
+            "Correct Answer": 3
+        },
+        "Question34": {
+            "Question": "What is important to remember when a person is receiving a heat application to his shoulder?",
+            "Option1": "Remove the heat application after one hour",
+            "Option2": "The skin should be checked frequently for redness",
+            "Option3": "Heat is to be applied directly to the skin",
+            "Option4": "Heat causes constriction of the blood vessels",
+            "Correct Answer": 2
+        },
+        "Question35": {
+            "Question": "What should the CCA do when ambulating a person from the bed to a chair, but halfway there, the person says, \"I feel faint\" and starts to fall?",
+            "Option1": "Carry the person back to bed",
+            "Option2": "Grasp the person by the waist and drag them to the chair",
+            "Option3": "Support the person to prevent the fall",
+            "Option4": "Ease the person to the floor",
+            "Correct Answer": 4
+        },
+        "Question36": {
+            "Question": "Labels on food sold in Canada must include which of the following pieces of information?",
+            "Option1": "The color and size of the food",
+            "Option2": "A list of ingredients in order of proportion",
+            "Option3": "The generic name of the product",
+            "Option4": "A statement about the quality of the food",
+            "Correct Answer": 2
+        },
+        "Question37": {
+            "Question": "What is the correct position of the leg after a fractured hip surgery?",
+            "Option1": "Adducted",
+            "Option2": "Extended",
+            "Option3": "Abducted",
+            "Option4": "Flexed",
+            "Correct Answer": 3
+        },
+        "Question38": {
+            "Question": "How does Human Immunodeficiency Virus (HIV) spread?",
+            "Option1": "Saliva",
+            "Option2": "Breast milk",
+            "Option3": "Toilet seats",
+            "Option4": "Sneezing",
+            "Correct Answer": 2
+        },
+        "Question39": {
+            "Question": "What is the purpose of bed cradles?",
+            "Option1": "To prevent the mattress from sagging",
+            "Option2": "To prevent plantar flexion",
+            "Option3": "To keep the hips abducted",
+            "Option4": "To keep the weight of top linens off the feet",
+            "Correct Answer": 4
+        },
+        "Question40": {
+            "Question": "What is the proper medical term for a reduced amount of oxygen in the cells?",
+            "Option1": "Dyspnea",
+            "Option2": "Hypoxia",
+            "Option3": "Angina",
+            "Option4": "Emphysema",
+            "Correct Answer": 2
+        },
+        "Question41": {
+            "Question": "What does the care plan contain?",
+            "Option1": "Goals and interventions",
+            "Option2": "Person's response to treatment",
+            "Option3": "Daily vital signs",
+            "Option4": "Medications and treatments",
+            "Correct Answer": 1
+        },
+        "Question42": {
+            "Question": "Which arteries are most affected during a heart attack?",
+            "Option1": "Collateral arteries",
+            "Option2": "Coronary arteries",
+            "Option3": "Main arteries",
+            "Option4": "Pulmonary arteries",
+            "Correct Answer": 2
+        },
+        "Question43": {
+            "Question": "What is the main focus of the health care team?",
+            "Option1": "Complete all tasks as quickly as possible",
+            "Option2": "Meet all of the person's demands",
+            "Option3": "Provide competent and quality care to the person",
+            "Option4": "See as many people as possible in one day",
+            "Correct Answer": 3
+        },
+        "Question44": {
+            "Question": "Thickened liquids are given to clients diagnosed with which of the following conditions?",
+            "Option1": "Dysarthria",
+            "Option2": "Dyspnea",
+            "Option3": "Dysuria",
+            "Option4": "Dysphagia",
+            "Correct Answer": 4
+        },
+        "Question45": {
+            "Question": "Which of the following statements about urinary incontinence is incorrect?",
+            "Option1": "New urinary incontinence should always be investigated",
+            "Option2": "Functional urinary incontinence is not due to problems with the urinary system",
+            "Option3": "Stress, neurogenic, functional, and overflow are all forms of urinary incontinence",
+            "Option4": "Urinary incontinence occurs as a normal age related change",
+            "Correct Answer": 4
+        },
+        "Question46": {
+            "Question": "What is the most important nutrient necessary for life?",
+            "Option1": "Calcium",
+            "Option2": "Vitamin A",
+            "Option3": "Water",
+            "Option4": "Vitamin C",
+            "Correct Answer": 3
+        },
+        "Question47": {
+            "Question": "What is urine incontinence?",
+            "Option1": "Inability to control the passage of urine",
+            "Option2": "Frequent urination",
+            "Option3": "Difficulty in passing urine",
+            "Option4": "Need to urinate immediately",
+            "Correct Answer": 1
+        },
+        "Question48": {
+            "Question": "The principles or values that guide us in deciding what is right and wrong conduct are called:",
+            "Option1": "Torts",
+            "Option2": "Civil laws",
+            "Option3": "Ethics",
+            "Option4": "Public laws",
+            "Correct Answer": 3
+        },
+        "Question49": {
+            "Question": "Jim becomes angry at the staff for \"not caring for Philip properly\". Which strategy may assist Jim with his concerns?",
+            "Option1": "Direct Jim to file a complaint to the administrator",
+            "Option2": "Provide personal care when Jim is not visiting",
+            "Option3": "Designate one CCA to provide all care",
+            "Option4": "Involve Jim in the care planning process",
+            "Correct Answer": 4
+        },
+        "Question50": {
+            "Question": "If a person has poor grooming, is agitated, not sleeping, and appears sad, these may be signs of what condition?",
+            "Option1": "Anorexia nervosa",
+            "Option2": "Aging",
+            "Option3": "Depression",
+            "Option4": "Schizophrenia",
+            "Correct Answer": 3
+        },
+        "Question51": {
+            "Question": "Mr. Sanderson has diabetes and requires insulin.  His wife gives him his injections each day before breakfast.  She tells you she has an early morning appointment tomorrow and asks you to give the insulin. Your best response would be:",
+            "Option1": "Ask her to show you how to do it",
+            "Option2": "Explain that you already have a full workload and don\u2019t have time",
+            "Option3": "Explain that is it not within your Scope of Practice",
+            "Option4": "Ask you Supervisor to delegate this task to you",
+            "Correct Answer": 3
+        },
+        "Question52": {
+            "Question": "You and Ms. Jones are talking about her surgery. Which of the following is a closed question?",
+            "Option1": "\u201cDo you feel better now?\u201d",
+            "Option2": "Tell me what your plans are for home.\u201d",
+            "Option3": "What will you do when you fully recover?\u201d",
+            "Option4": "How long will you be off work?",
+            "Correct Answer": 1
+        },
+        "Question53": {
+            "Question": "Which is the most common type of dementia?",
+            "Option1": "Multi-infarct dementia",
+            "Option2": "Alzheimer\u2019s disease",
+            "Option3": "Stroke",
+            "Option4": "Syphilis",
+            "Correct Answer": 2
+        },
+        "Question54": {
+            "Question": "The person with stage 1 Alzheimer\u2019s disease:",
+            "Option1": "Has difficulty finishing thoughts",
+            "Option2": "It totally incontinent of bowel and bladder",
+            "Option3": "Cannot swallow",
+            "Option4": "Has movement and gait disturbances",
+            "Correct Answer": 1
+        },
+        "Question55": {
+            "Question": "Mr. Dun has moderate dementia and tends to wander.  You should do the following:",
+            "Option1": "Tell him about safe areas for wandering",
+            "Option2": "Keep him in his pajamas so he will not want to wander far",
+            "Option3": "Keep him on bed rest and give him comfort care",
+            "Option4": "Make sure the door alarms are turned on",
+            "Correct Answer": 4
+        },
+        "Question56": {
+            "Question": "How many Canadians will personally experience a mental illness?",
+            "Option1": "1 in 10",
+            "Option2": "1 in 5",
+            "Option3": "1 in 100",
+            "Option4": "Only a few",
+            "Correct Answer": 2
+        },
+        "Question57": {
+            "Question": "Stigma is:",
+            "Option1": "Common in mental illness",
+            "Option2": "A major reason people don\u2019t seek treatment",
+            "Option3": "Affects men more than woman",
+            "Option4": "All of the above",
+            "Correct Answer": 2
+        },
+        "Question58": {
+            "Question": "Shira, 15, has lost 30 pounds.  She is terrified of becoming fat, even though she is thin. She avoids food.  Shira likely has:",
+            "Option1": "Anorexia Bulimia",
+            "Option2": "Repression",
+            "Option3": "Anorexia Nervosa",
+            "Option4": "Claustrophobia",
+            "Correct Answer": 3
+        },
+        "Question59": {
+            "Question": "You are supporting a client with bipolar disorder, who is in the manic phase of the illness.  You should:",
+            "Option1": "Offer limited choices",
+            "Option2": "Direct her to clean her house",
+            "Option3": "Provide a stimulating environment",
+            "Option4": "Get her to become tired so she will fall asleep",
+            "Correct Answer": 1
+        },
+        "Question60": {
+            "Question": "Which is a common warning sign for suicidal intent?",
+            "Option1": "Giving away prized possessions",
+            "Option2": "Extreme suspiciousness",
+            "Option3": "Extreme interest in a sport",
+            "Option4": "Performing well in school",
+            "Correct Answer": 1
+        },
+        "Question61": {
+            "Question": "Mrs. Pare is afraid of catching a disease and washes her hands hundreds of times a day.   Mrs. Pare likely has:",
+            "Option1": "Panic Disorder",
+            "Option2": "Phobic Disorder",
+            "Option3": "Anorexia Nervosa",
+            "Option4": "Obsessive-Compulsive Disorder",
+            "Correct Answer": 4
+        },
+        "Question62": {
+            "Question": "Schizophrenia is characterized by:",
+            "Option1": "Altered perception of reality",
+            "Option2": "Hallucinations",
+            "Option3": "Suspicion",
+            "Option4": "All of the above",
+            "Correct Answer": 4
+        },
+        "Question63": {
+            "Question": "Maslow\u2019s Hierarchy of Needs can best be described as:",
+            "Option1": "Another term for psychosocial health",
+            "Option2": "A system that arranges human needs into categories",
+            "Option3": "Physiological and safety needs",
+            "Option4": "Love and belonging needs",
+            "Correct Answer": 2
+        },
+        "Question64": {
+            "Question": "Which of the following is part of Maslow\u2019s Hierarchy of Needs?",
+            "Option1": "Financial needs",
+            "Option2": "Trust needs",
+            "Option3": "Intimacy needs",
+            "Option4": "Physical needs",
+            "Correct Answer": 4
+        },
+        "Question65": {
+            "Question": "Age related changes in the urinary system include which of the following?",
+            "Option1": "Lower concentration of urine",
+            "Option2": "Increased bladder size",
+            "Option3": "Improved bladder control",
+            "Option4": "Decreased kidney function",
+            "Correct Answer": 4
+        },
+        "Question66": {
+            "Question": "Which is correct regarding the older adult\u2019s ability to sense pain?",
+            "Option1": "It is increased",
+            "Option2": "It is decreased",
+            "Option3": "It is the same as a younger adult",
+            "Option4": "It is the same as a young child",
+            "Correct Answer": 2
+        },
+        "Question67": {
+            "Question": "Musculo-skeletal changes result in which of the following?",
+            "Option1": "Sudden loss of height",
+            "Option2": "Increased strength",
+            "Option3": "Decreased mobility",
+            "Option4": "Less joint pain and stiffness",
+            "Correct Answer": 3
+        },
+        "Question68": {
+            "Question": "Which of the following statements about age-related changes in the skin is correct?",
+            "Option1": "Skin becomes thicker",
+            "Option2": "Skin becomes increasingly sensitive",
+            "Option3": "Skin becomes fragile and more easily injured",
+            "Option4": "Oil and sweat glands produce more secretions",
+            "Correct Answer": 3
+        },
+        "Question69": {
+            "Question": "As a student you are assigned to work with Susana, who is a social worker.  Which of the following describes the role of the social worker?",
+            "Option1": "Helping client with their social speech",
+            "Option2": "Planning social activities to keep the client busy",
+            "Option3": "Assisting the client in deciding what to eat at social events",
+            "Option4": "Helping client deal with the social and emotional issues related to illness and recovery",
+            "Correct Answer": 4
+        },
+        "Question70": {
+            "Question": "Who assesses and plans for the nutritional needs of patient and residents?",
+            "Option1": "The nurse",
+            "Option2": "The dietician",
+            "Option3": "The pharmacists",
+            "Option4": "The doctor",
+            "Correct Answer": 2
+        },
+        "Question71": {
+            "Question": "Who assesses client, makes nursing diagnoses, develops care plans, and implements and evaluates nursing care?",
+            "Option1": "Nurse",
+            "Option2": "CCA",
+            "Option3": "Physician",
+            "Option4": "Spiritual advisor",
+            "Correct Answer": 1
+        },
+        "Question72": {
+            "Question": "Which of the following statements about cleaning a wound and changing a dressing is correct?",
+            "Option1": "This is a delegated act",
+            "Option2": "This is a support worker\u2019s task",
+            "Option3": "This task is not within the CCA\u2019s Scope of Practice",
+            "Option4": "This task is sometimes within the support worker\u2019s Scope of Practice",
+            "Correct Answer": 3
+        },
+        "Question73": {
+            "Question": "Sonia, a support worker, must assist a client with personal hygiene.  What is this task an example of?",
+            "Option1": "A delegated task",
+            "Option2": "A nursing function",
+            "Option3": "An assigned task",
+            "Option4": "A nurse activity",
+            "Correct Answer": 3
+        },
+        "Question74": {
+            "Question": "When a nurse delegates a task to a support worker, what if the first step?",
+            "Option1": "Assessing the support worker\u2019s performance",
+            "Option2": "Teaching the support worker the task",
+            "Option3": "Observing the support worker performing the task",
+            "Option4": "Monitoring the support worker over time",
+            "Correct Answer": 2
+        },
+        "Question75": {
+            "Question": "Scope of Practice:",
+            "Option1": "Is the same as scope of employment",
+            "Option2": "Defines the role, accountabilities and functions of a CCA",
+            "Option3": "Outlines the range of responsibilities of a CCA",
+            "Option4": "Lists CCA procedures and policies",
             "Correct Answer": 2
         }
     }
