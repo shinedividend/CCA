@@ -57,6 +57,17 @@
             }
         </style>
         <style>
+            @media print {
+                .header-container {
+                    display: none;
+                }
+                .container-submit {
+                    display: none;
+                }
+                .container {
+                    border: none !important;
+                }
+            }
             @font-face {
                 font-family: 'password';
                 font-style: normal;
@@ -103,7 +114,6 @@
     <body>
         <div class="header-container">
             <div class="row box" style="background-image: linear-gradient(to bottom, #aaccff, #ffffff);">
-    
                 <div class="upper-header col-md-3 col-lg-4  hidden-sm-down" style="padding: 0 10px">
                     <img class="img-fluid" style="border:1px solid #666666;border-radius:5px;" src="./image/poster.png" title="Fun Trivia" alt="Quiz about General Knowledge Questions">
                     <div style="margin-left: 20px;">
@@ -147,7 +157,6 @@
                 </div>
             </div>
         </div>
-        <iframe src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe>
     </body>
     <script defer>
         const examSelector = document.getElementById('mock-exam-selector');
@@ -304,7 +313,7 @@
                 }
 
                 let submitButtonContainer = document.createElement('div');
-                submitButtonContainer.classList = "container container-element-form";
+                submitButtonContainer.classList = "container container-element-form container-submit";
                 let submitButtonHTML = 
                     `
                         <div class="row box">
