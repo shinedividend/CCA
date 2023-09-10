@@ -205,21 +205,26 @@
                 });
             }
 
-            questionForm.querySelectorAll('.container-element-form').forEach(e => e.remove());
-            for (let i = 0; i < answerList.length; i++) {
-                writeAnswerDetail(currentExam, i+1, answerList[i].correctAns, answerList[i].chosenAnswer);
-            }
-
             const resultHTML = 
                 `
                     <div class="result" style="display: flex; justify-content: center">
                         <span style="text-align: center; height: 50px; width: 500px; font-size: 35px; font-weight: 500;">Your result: ${correctNum}/${totalAnswer} (${Math.floor(correctNum/totalAnswer*100)}%)</span>
                     </div>
-                `
-            const resultContainer = document.createElement('div');
-            resultContainer.classList = "result-container container-element-form";
-            resultContainer.innerHTML = resultHTML;
-            questionForm.appendChild(resultContainer);
+                `;
+            questionForm.querySelectorAll('.container-element-form').forEach(e => e.remove());
+            const resultContainer1 = document.createElement('div');
+            resultContainer1.classList = "result-container container-element-form";
+            resultContainer1.innerHTML = resultHTML;
+            questionForm.appendChild(resultContainer1);
+            for (let i = 0; i < answerList.length; i++) {
+                writeAnswerDetail(currentExam, i+1, answerList[i].correctAns, answerList[i].chosenAnswer);
+            }
+
+            const resultContainer2 = document.createElement('div');
+            resultContainer2.classList = "result-container container-element-form";
+            resultContainer2.innerHTML = resultHTML;
+            questionForm.appendChild(resultContainer2);
+            document.documentElement.scrollTop = 0;
         }
 
         const writeAnswerDetail = function(examId, qId, correctId, currentId) {
@@ -270,22 +275,6 @@
                 document.getElementById('exam-title').innerHTML = `Mock Exam ${id}`;
                 // Clear all 
                 questionForm.querySelectorAll('.container-element-form').forEach(e => e.remove());
-
-                let submitButtonContainer1 = document.createElement('div');
-                submitButtonContainer1.classList = "container container-element-form";
-                let submitButtonHTML1 = 
-                    `
-                        <div class="row box">
-                            <div class="col-12 nopadmobile">
-                                <br>
-                                <div style="text-align:center;"><input type="submit" style="height:50px; width:250px;font-size:20px;font-weight:bold;text-align:center;color:#0000ff;background-color:#cccccc;" value="Submit your Answers!"></div>
-                                <br>
-                            </div>
-                        </div>
-                    `;
-                submitButtonContainer1.innerHTML = submitButtonHTML1;
-                submitButtonContainer1.style.backgroundColor = '#aaccff30';
-                questionForm.appendChild(submitButtonContainer1);
                 for (let i = 1; i <= examInfo[`Exam${id}`].quesNum; i++) {
                     let questionHTML = `
                         <div class="row box playquiz_qnbox">
@@ -314,9 +303,9 @@
                     questionForm.appendChild(questionContainer)
                 }
 
-                let submitButtonContainer2 = document.createElement('div');
-                submitButtonContainer2.classList = "container container-element-form";
-                let submitButtonHTML2 = 
+                let submitButtonContainer = document.createElement('div');
+                submitButtonContainer.classList = "container container-element-form";
+                let submitButtonHTML = 
                     `
                         <div class="row box">
                             <div class="col-12 nopadmobile">
@@ -326,9 +315,9 @@
                             </div>
                         </div>
                     `;
-                submitButtonContainer2.innerHTML = submitButtonHTML2;
-                submitButtonContainer2.style.backgroundColor = '#aaccff30';
-                questionForm.appendChild(submitButtonContainer2);
+                submitButtonContainer.innerHTML = submitButtonHTML;
+                submitButtonContainer.style.backgroundColor = '#aaccff30';
+                questionForm.appendChild(submitButtonContainer);
             } else {
                 return;
             }
